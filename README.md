@@ -1,5 +1,5 @@
 # SecureSync Backend
-
+📄 **[View My Resume](Ayush_Kumar_Singh_FlowCV_Resume_2026-08-22.pdf)**
 A task management API built with Python and FastAPI. Users can register, login with JWT tokens, and manage their own tasks.
 
 ## Features
